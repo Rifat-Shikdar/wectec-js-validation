@@ -1,0 +1,66 @@
+
+
+.nav {
+
+    padding-top: 100px;
+    padding-bottom: 80px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    background-color: skyblue;
+    border-radius: 10px 10px 50px 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+
+
+}
+.btn-link{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+.btn{
+    background-color: darkslateblue;
+    color: white;
+    padding: 30px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+
+}
+
+.hover:hover {
+    background-color: lightblue;
+}
+
+h2{
+   
+    border: 2px solid skyblue;
+    font-size: 60px;
+    padding-left: 100px;
+    border-radius: 20px;
+}
+
+tbody{
+    font-size: 80px;
+
+   
+}
+
+#footer {
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 100px;
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-radius: 50px 50px 10px 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+
+}
